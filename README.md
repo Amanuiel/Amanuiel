@@ -1,46 +1,72 @@
-# Hi 👋, I'm Amanuel Tilahun Amanu  
+# Hi there! I'm Amanuel Tilahun Amanu 👋
 
-🚀 **Assistant CIO | Full Stack Developer | VAS Developer | ERP System Architect**
+## 🚀 About Me
+I am an experienced IT professional with over **4 years** of expertise in **full-stack development, ERP systems, digital marketing, and data visualization**. I have a strong background in building scalable enterprise solutions and market monitoring platforms.
 
-## 🏠 About Me
-- 🌍 Based in **Addis Ababa, Ethiopia**
-- 💻 **Full Stack Developer** & **ERP System Architect** with **4+ years of experience**
-- ⚡ Passionate about **enterprise software, web & mobile app development, and digital transformation**
-- 🏆 Awarded **"Employee of the Year"** for developing a full **ERP system** from scratch
-- 📈 Currently managing the **Software Department** and leading IT innovations
+- 🏆 **Employee of the Year** for building a scalable ERP system from scratch.
+- 🌍 Passionate about **technology-driven humanitarian solutions**.
+- 📊 Expert in **market monitoring, data analytics, and automated reporting**.
+- 🎯 Skilled in **social media marketing, digital campaigns, and SEO optimization**.
 
-## 💼 Professional Experience
-- **Assistant CIO** & **Software Department Manager**
-- Developed **full-scale ERP systems** for multiple companies, including:
-  - **Federal Housing Corporation** (FHC) - Building Maintenance Management System
-  - **E MECCE Engineering & Agro Industry Trading PLC**
-  - **Multi-sector ERP** (HR, Finance, Supply Chain, Inventory, CRM, Security, etc.)
-- **VAS Developer** - Specialized in **value-added services** for companies
-- **E-commerce & Digital Platforms**
-  - Developed a multilingual **e-commerce system** (5 languages, wallet, push notifications)
-  - Built the **Ethiopian Business Directory** & **Hoteloch** (hotel directory app)
+## 🔧 Tech Stack & Skills
+- **Languages:** JavaScript, PHP, HTML, CSS
+- **Frameworks & Tools:** Laravel, MySQL, Next.js, Flutter
+- **ERP & Digital Platforms:** MIS (Managerial Information Systems), Problem-Solving
+- **Web & Mobile Development:** E-commerce, Android & iOS Apps
+- **Project Management:** Agile Development, Stakeholder Coordination
+- **Marketing & SEO:** Social Media Strategy, Content Creation, Google Ads, Facebook & Instagram Ads
 
-## 🌍 My Projects
-- **Hello Mesa** 🍽️ - Lunch ordering & delivery app without maps
-- **Meserete Timhert** 📚 - Amharic language learning app
-- **ViralVault** 🎥 - YouTube automation channel ([Check it out](https://youtube.com/@viralvault1-q2r?si=s8F_ATZgD1vOjnpM))
-- **Job Portal** (Upcoming) 🌍 - International job posting platform
-- **Game Zone Business** 🎮 - Setting up a **gaming hub in Ayat** (pool, PS, bingo)
+## 💼 Work Experience
+### Assistant CIO | MSS Company (Micro Sun & Solution PLC) (2020 - Present)
+- Developed a **12-module ERP system** for various industries.
+- Designed **market monitoring tools** with real-time dashboards and automated reporting.
+- Built the **Ethiopian Business Directory App**.
+- Developed **data integration platforms** for financial reporting.
+- Led the creation of **job portals** and humanitarian aid monitoring systems.
 
-## 🔥 Tech Stack
-**Frontend:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Digital Marketing & Social Media Manager
+- Managed **SEO & social media campaigns** for brands like Aya Hotel, Peace Technology, and Hefli Trading.
+- Created and boosted **digital marketing campaigns**.
+- Supervised **graphics designers and content creators**.
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+## 📌 Featured Projects
+### ✅ **Full ERP System**
+> Designed and implemented a **12-module** ERP system for companies like Zamu Industry, Nik Trading, and Afritopia Trading.
 
-**Database & DevOps:**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 🛍️ **Digital Merkato (E-commerce Platform)**
+> Built an **e-commerce website and mobile app** with **secure payment** and **inventory tracking**.
+- **Website:** [Digital Merkato](https://www.digitalmerkato.co)
+- **App:** [Play Store](https://play.google.com/store/apps/details?id=co.digitalmerkato)
+
+### 🚍 **Hello Bus ET**
+> Developed a **bus ticket booking system** with multi-language support.
+- **Website:** [Hello Bus](https://hellobus6810.com/)
+
+### 🎟 **Ticket Master**
+> Created an **event ticket booking app**.
+- **App:** [Ticket Master Mobile App](https://play.google.com/store/apps/details?id=com.imam_muzeyn.ticketmaster)
+
+### 🍽 **Ethio Chef**
+> Built a website & mobile app integrated with **Ethiotelecom VAS System**.
+- **Website:** [Ethio Chef](http://www.ethiochef.com/)
+- **App:** [Play Store](https://play.google.com/store/apps/details?id=com.peacetechnology.ethiochef)
+
+### 🏢 **Ethiopian Business Directory**
+> Developed an app for **finding businesses, locations, and contacts**.
+- **App:** [Ethiopian Business Directory](https://play.google.com/store/apps/details?id=com.ethiobusiness.directory)
+
+### 🏨 **Hoteloch (In Progress)**
+> A **hotel booking platform** allowing customers to explore hotels by city and category.
+
+## 🎖 Awards & Certifications
+- 🏅 **Best Performance Award** - Yegna Trading PLC (ERP Development)
+- 🏆 **Employee of the Year** - MSS Company (2024)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-tilahun)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amanuiel)  
-📧 **Contact:** +251911058179 / amanuiel@example.com  
+- 🌍 **Portfolio:** [amanueltilahun.com](https://amanueltilahun.com)
+- 📩 **Email:** tilahunamanel0@gmail.com
+- 🔗 **LinkedIn:** [Amanuel Tilahun](https://www.linkedin.com/in/amanuiel-tilahun-824630202)
+- 📱 **Phone:** +251911058179
 
----
-⭐ **Feel free to check out my repositories and contribute!**
+🚀 **Let's collaborate and build impactful solutions together!**
+
